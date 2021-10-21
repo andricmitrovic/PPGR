@@ -1,2 +1,2 @@
 # PPGR
-Primena projektivne geometrije u racunarstvu projekti
+Projekti iz predmeta Primena projektivne geometrije u racunarstvu.
